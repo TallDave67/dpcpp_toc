@@ -6,7 +6,7 @@ Linux distro "Pop!_OS 20.10" or "Pop!_OS 21.04"
 
 cmake version 3.16.3 or 3.18.4
 
-ntel(R) oneAPI DPC++/C++ Compiler 2021.3.0 (2021.3.0.20210619)
+Intel(R) oneAPI DPC++/C++ Compiler 2021.3.0 (2021.3.0.20210619)
 
 ## Table of Contents
 
